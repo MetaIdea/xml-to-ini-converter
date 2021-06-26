@@ -1,4 +1,4 @@
 # xml-to-ini-converter
 Convert xml to ini.
 
-Paste code into CONTENT.xml start Convert.bat and receive the in code in CONTENT.ini.
+Paste the xml code into CONTENT.xml start Convert.bat and receive the ini code in CONTENT.ini.
